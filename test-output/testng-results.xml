@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="181352" started-at="2020-10-17T17:53:01Z" finished-at="2020-10-17T17:56:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="181352" started-at="2020-10-17T17:53:01Z" finished-at="2020-10-17T17:56:03Z">
+      <class name="RETC_045">
+        <test-method status="PASS" signature="setupBeforeClass()[pri:0, instance:RETC_045@4461c7e3]" name="setupBeforeClass" is-config="true" duration-ms="68208" started-at="2020-10-17T23:23:01Z" finished-at="2020-10-17T23:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:RETC_045@4461c7e3]" name="test" duration-ms="101627" started-at="2020-10-17T23:24:10Z" finished-at="2020-10-17T23:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:RETC_045@4461c7e3]" name="aftertest" is-config="true" duration-ms="11496" started-at="2020-10-17T23:25:51Z" finished-at="2020-10-17T23:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- RETC_045 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
